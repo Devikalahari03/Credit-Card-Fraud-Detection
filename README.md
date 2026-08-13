@@ -1,9 +1,7 @@
 # 💳 Credit Card Fraud Detection
 
 A machine learning project to detect fraudulent credit card transactions using logistic regression on a highly imbalanced real-world dataset.
-
 # <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d638997-f9c1-47b8-8305-08922fd1a6f6" />
-
 ---
 
 ## 📌 Project Overview
