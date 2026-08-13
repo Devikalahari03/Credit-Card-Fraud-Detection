@@ -2,7 +2,7 @@
 
 A machine learning project to detect fraudulent credit card transactions using logistic regression on a highly imbalanced real-world dataset.
 
-# https://image.cnbcfm.com/api/v1/image/108086122-1736859559244-gettyimages-2192426420-creditcards-3.jpeg?v=1736859598&w=1920&h=1080
+# <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d638997-f9c1-47b8-8305-08922fd1a6f6" />
 
 ---
 
