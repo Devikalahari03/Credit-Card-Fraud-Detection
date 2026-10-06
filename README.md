@@ -47,9 +47,9 @@ Credit card fraud is a major financial challenge. This project builds a binary c
 - Correlation heatmap to identify key features
 
 **2. Data Preprocessing**
-- Feature scaling using `StandardScaler` on `Amount` and `Time`
-- Applied **SMOTE (Synthetic Minority Oversampling Technique)** to handle class imbalance
-- Train-test split: 80/20
+- Feature scaling using StandardScaler on Amount and Time
+- Train-test split: 80/20, stratified to preserve the real fraud ratio in the test set
+- Applied SMOTE to the training set only, after the split — keeping the test set untouched and leakage-free
 
 **3. Model Building**
 - Trained a **Logistic Regression** classifier
